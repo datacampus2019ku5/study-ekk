@@ -1,0 +1,11 @@
+빅데이터 : 결국 누군가는 활용해야 한다
+=> 머신러닝 => 데이터 모델 도출 => "시스템 개발" => 서비스 제공
+
+3V : Volume, Variety, Velocity(빠르게) + Value
+
+Structured Data  / Semi-Structure Data / Document / Unstructured Data(비정형)
+
+Day 1(Week 2) : DB
+Day 2: Semi / DB(ORM), 정규식(=> pandas를 위한 틀 만들기 용)
+Day 3: Semi (jason, XML) / 공공데이터 parsing
+나머지 : 비정형 데이터(from Web) => 쿠키,세션 + Automation, Web crolling
